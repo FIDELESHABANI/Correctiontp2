@@ -1,0 +1,4 @@
+************/ TP2 /************
+Realiser ce magnifique blog avec trois pages
+chaque page doit ressembler à celle fournie dans les images.
+les images et fichier bootstrap sont dans le dossier; et l'utilisation de CSS est facultatif.

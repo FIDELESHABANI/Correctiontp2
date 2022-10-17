@@ -1,0 +1,54 @@
+
+.imagelogo img
+{
+    border-radius: 50px;
+    box-shadow: 2px 2px 3px 1px white(0, 0, 0,0.83);
+    padding: 4px;
+    
+}
+.titre1
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 1.8em;
+    color:black;
+}
+.sect1
+{
+    background-color: #bcf5a9;
+    text-align: justify;
+    border-radius: 20px 20px 20px 20px;
+    margin-bottom: 40px;
+}
+.sect11
+{
+    background-color: #bcf5a9;
+    text-align: justify;
+    border-radius: 60px 40px 60px 40px;
+    margin-bottom: 40px;
+    min-width: 45%;
+}
+
+.header1
+{
+        position: absolute;
+        background-color: rgb(24,24,24,0.8);
+        font-size: 1em;
+        border-radius: 20px 20px 20px 20px;
+        margin: 10px;
+}
+
+.pied1
+{
+    background-color: black;
+    text-align: center;
+    font-size: 1em;
+    color: aliceblue;
+    border-radius: 20px 20px 20px 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.sect1 img
+{
+    border-radius: 50px;
+    box-shadow: 8px 8px 10px 10px white(0, 0, 0,0.83);
+}
